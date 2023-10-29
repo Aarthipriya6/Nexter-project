@@ -1,7 +1,7 @@
 # Nexter-project
 
 ***
-## Text tag
+## TECH STACK
 ***
 + HTML
 + CSS
